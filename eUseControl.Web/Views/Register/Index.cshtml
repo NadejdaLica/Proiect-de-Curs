@@ -1,0 +1,78 @@
+﻿@model eUseControl.Models.UserRegister
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Detisin</title>
+</head>
+<body>
+
+    <div style="background-color: black; height: 5.5em; "></div>
+
+
+    <div class="container-fluid" style="margin-top: 15%">
+        <div class="row" style="height: 55vh">
+            <div class="col-md-3 col-sm-1"></div>
+            <div class="col-md-6 col-sm-10">
+                @Html.ValidationSummary(true)
+                @Html.ValidationMessageFor(m => m.Username)
+                @Html.ValidationMessageFor(m => m.Email)
+                @Html.ValidationMessageFor(m => m.Password)
+                @using (Html.BeginForm("Index", "Register", FormMethod.Post, new
+                {
+                    @id =
+                        "RegisterForm"
+                }))
+                {
+                    <div class="form-row col">
+                        @Html.LabelFor(m => m.Username, new { @class = "control-label" })
+                        @Html.TextBoxFor(m => m.Username, new
+                        {
+                            placeholder = "Name",
+                            title = "Please enter your username",
+                            name = "username",
+                            value = "",
+                            id = "username",
+                            @class = "form-control"
+                        })
+                    </div>
+                    <div class="form-row col">
+                        @Html.Label("Your email address")
+                        @Html.TextBoxFor(m => m.Email, new
+                        {
+                            placeholder = "something@email.com",
+                            title = "Please enter your Email",
+                            name = "email",
+                            value = "",
+                            id = "email",
+                            @class = "form-control"
+                        })
+                    </div>
+                    <div class="form-row col">
+                        @Html.LabelFor(m => m.Password, new { @class = "control-label" })
+                        @Html.TextBoxFor(m => m.Password, new
+                        {
+                            placeholder = "*********",
+                            type = "password",
+                            title = "Please enter your password",
+                            value = "",
+                            name = "password",
+                            id = "password",
+                            @class = "form-control"
+                        })
+                    </div>
+                    <div class="text-center" style="margin-top: 20px;">
+                        <button type="submit" class="btn btn-warning btn-dark">Register</button>
+                        <a class="btn btn-dark" href="@Url.Action("Index", "Login")">Login</a>
+                    </div>
+                }
+                <div class="col-md-3 col-sm-1"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

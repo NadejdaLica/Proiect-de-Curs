@@ -1,0 +1,374 @@
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\eUseControl.Web.dll.config
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\eUseControl.Web.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\eUseControl.Web.pdb
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\csc.exe
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\csc.exe.config
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\csc.rsp
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\csi.exe
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\csi.exe.config
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\csi.rsp
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.AppContext.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Console.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Globalization.Calendars.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.IO.Compression.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Net.Http.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Net.Sockets.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.ValueTuple.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Xml.XPath.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\vbc.exe
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\vbc.exe.config
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\vbc.rsp
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\Antlr3.Runtime.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\Newtonsoft.Json.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Helpers.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Mvc.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Optimization.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Razor.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Webpages.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Webpages.Razor.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\WebGrease.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\Antlr3.Runtime.pdb
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\Newtonsoft.Json.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Optimization.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Razor.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Webpages.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Webpages.Razor.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Helpers.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\System.Web.Mvc.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.AssemblyReference.cache
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CopyComplete
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\EntityFramework.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\EntityFramework.SqlServer.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\eUseControl.BussinesLogic.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\eUseControl.Domain.dll
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\eUseControl.BussinesLogic.pdb
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\eUseControl.BussinesLogic.dll.config
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\eUseControl.Domain.pdb
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\eUseControl.Domain.dll.config
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\EntityFramework.xml
+E:\Ionut\Anul 2\WEB\template\eUseControl.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\eUseControl.Web.dll.config
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\eUseControl.Web.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\eUseControl.Web.pdb
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\csc.exe
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\csc.exe.config
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\csc.rsp
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\csi.exe
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\csi.exe.config
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\csi.rsp
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.AppContext.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Console.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\vbc.exe
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\vbc.exe.config
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\vbc.rsp
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\Antlr3.Runtime.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\EntityFramework.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\eUseControl.BussinesLogic.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\eUseControl.Domain.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\Newtonsoft.Json.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Helpers.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Mvc.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Optimization.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Razor.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\WebGrease.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\eUseControl.BussinesLogic.pdb
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\eUseControl.BussinesLogic.dll.config
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\eUseControl.Domain.pdb
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\eUseControl.Domain.dll.config
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\Antlr3.Runtime.pdb
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\EntityFramework.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\Newtonsoft.Json.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Optimization.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Razor.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Helpers.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\System.Web.Mvc.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.AssemblyReference.cache
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CopyComplete
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+C:\Users\grigo\OneDrive\Desktop\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.Web.dll.config
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.Web.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.Web.pdb
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\csc.exe
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\csc.exe.config
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\csc.rsp
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\csi.exe
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\csi.exe.config
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\csi.rsp
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.AppContext.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Console.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.IO.Compression.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Net.Http.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Net.Sockets.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.ValueTuple.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\vbc.exe
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\vbc.exe.config
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\vbc.rsp
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\Antlr3.Runtime.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\EntityFramework.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\EntityFramework.SqlServer.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.BussinesLogic.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.Domain.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\Newtonsoft.Json.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Helpers.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Mvc.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Optimization.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Razor.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.Razor.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\WebGrease.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.BussinesLogic.pdb
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.BussinesLogic.dll.config
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.Domain.pdb
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.Domain.dll.config
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\Antlr3.Runtime.pdb
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\EntityFramework.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\EntityFramework.SqlServer.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\Newtonsoft.Json.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Optimization.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Razor.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Webpages.Razor.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Helpers.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\System.Web.Mvc.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.AssemblyReference.cache
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CopyComplete
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\AutoMapper.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.Helpers.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\WebMatrix.Data.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\Z.EntityFramework.Extensions.dll
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.Helpers.pdb
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\eUseControl.Helpers.dll.config
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\AutoMapper.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\WebMatrix.Data.xml
+D:\Chiforiuc Adrian TI-203\Others\Detisin\template\eUseControl.Web\bin\Z.EntityFramework.Extensions.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.Web.dll.config
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.Web.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.Web.pdb
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\csc.exe
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\csc.exe.config
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\csc.rsp
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\csi.exe
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\csi.exe.config
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\csi.rsp
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.AppContext.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Console.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\vbc.exe
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\vbc.exe.config
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\vbc.rsp
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\Antlr3.Runtime.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\AutoMapper.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\EntityFramework.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.BussinesLogic.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.Domain.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.Helpers.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\Newtonsoft.Json.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.Helpers.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.Mvc.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.Optimization.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.Razor.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.WebPages.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\WebGrease.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\WebMatrix.Data.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\Z.EntityFramework.Extensions.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.BussinesLogic.pdb
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.BussinesLogic.dll.config
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.Domain.pdb
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.Domain.dll.config
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.Helpers.pdb
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\eUseControl.Helpers.dll.config
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\Antlr3.Runtime.pdb
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\AutoMapper.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\EntityFramework.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\Newtonsoft.Json.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.Optimization.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\WebMatrix.Data.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\Z.EntityFramework.Extensions.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.Razor.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.WebPages.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.Helpers.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\System.Web.Mvc.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.AssemblyReference.cache
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CopyComplete
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+C:\Users\vladislav.lica\Desktop\template\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
